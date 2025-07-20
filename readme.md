@@ -1,6 +1,6 @@
 <!--
  * @Author: Wenhan Yu
- * @LastEditTime: 2025-07-20 08:55:39
+ * @LastEditTime: 2025-07-20 09:02:33
  * @Date: 2025-07-20 08:23:48
  * @Version: 1.0
  * @Description: 
@@ -16,11 +16,17 @@
 🔬 Researcher in Prof. Sha Lei's <strong>Language Computing and Sequence Analysis Group</strong><br>
 </p>
 
+Beihang University
+
+37 Xueyuan Rd., Haidian Dist.
+
+Beijing, China, 100191
+
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwenhan07&count_private=0&theme=dracula&hide_title=True&include_all_commits=true&show_icons=true&card_width=100)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwenhan07&count_private=0&theme=dracula&hide_title=false&include_all_commits=true&show_icons=true&card_width=100)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&hide=shell,javascript) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact&theme=dracula&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact&theme=dracula&hide_title=0)
 
 
 
