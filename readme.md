@@ -66,20 +66,11 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuwenhan07&theme=github" />
   </picture>
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact&theme=dracula&hide_title=0" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact&theme=github&hide_title=0" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact&theme=github&hide_title=0" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&theme=dracula&hide_title=0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&theme=github&hide_title=0" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&theme=github&hide_title=0" />
   </picture>
 </p>
-
-  <a href="https://github.com/yuwenhan07">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuwenhan07&theme=github" />
-  </a>
-  <a href="https://github.com/yuwenhan07">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact&theme=github&hide_title=0" />
-  </a>
-
-
 
 ---
 
