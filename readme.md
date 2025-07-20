@@ -1,6 +1,6 @@
 <!--
  * @Author: Wenhan Yu
- * @LastEditTime: 2025-07-20 10:01:13
+ * @LastEditTime: 2025-07-20 10:06:32
  * @Date: 2025-07-20 08:23:48
  * @Version: 1.0
  * @Description: 
@@ -70,7 +70,7 @@
 
 ### 🌟 Motto
 
-> **“Stay curious, stay driven, and always keep learning.”**
+> **“Stay hungry. Stay foolish.”**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuwenhan07/yuwenhan07/output/github-contribution-grid-snake-dark.svg">

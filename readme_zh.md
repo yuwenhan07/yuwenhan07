@@ -1,6 +1,6 @@
 <!--
  * @Author: Wenhan Yu
- * @LastEditTime: 2025-07-20 09:57:53
+ * @LastEditTime: 2025-07-20 10:07:45
  * @Date: 2025-07-20 08:23:48
  * @Version: 1.0
  * @Description: 
@@ -62,4 +62,11 @@
 
 ### 🌟 座右铭
 
-> **“保持好奇、保持动力、永远不断学习。”**
+> **“存志，守拙”**
+>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuwenhan07/yuwenhan07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuwenhan07/yuwenhan07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuwenhan07/yuwenhan07/output/github-contribution-grid-snake.svg">
+</picture>
