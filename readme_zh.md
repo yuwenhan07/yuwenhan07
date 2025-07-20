@@ -1,6 +1,6 @@
 <!--
  * @Author: Wenhan Yu
- * @LastEditTime: 2025-07-20 10:12:25
+ * @LastEditTime: 2025-07-20 10:23:24
  * @Date: 2025-07-20 08:23:48
  * @Version: 1.0
  * @Description: 
@@ -59,7 +59,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuwenhan07&theme=github" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuwenhan07&theme=github" />
   </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact&theme=default">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuwenhan07&theme=dracula" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuwenhan07&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuwenhan07&theme=github" />
+  </picture>
 </p>
 
 ---
