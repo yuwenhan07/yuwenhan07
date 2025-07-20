@@ -1,6 +1,6 @@
 <!--
  * @Author: Wenhan Yu
- * @LastEditTime: 2025-07-20 09:51:37
+ * @LastEditTime: 2025-07-20 10:01:13
  * @Date: 2025-07-20 08:23:48
  * @Version: 1.0
  * @Description: 
@@ -8,6 +8,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Wenhan Yu</h1>
+<p align="center"><a href="./readme_zh.md">查看中文主页</a></p>
 
 <p align="center">
 🎓 Student @ <strong>Beihang University (BUAA)</strong><br>
@@ -36,15 +37,14 @@
 
 - 📄 Research Internship @ [**Language Computing & Sequence Analysis Group**](https://github.com/Lesca-Group)
 - **💻 Participated / Completed / Ongoing Projects:**
+  - 🔗 [LawLLM-cupl-buaa](https://github.com/yuwenhan07/LawLLM-cupl-buaa): A collaborative effort to build legal large language models and explore their applications.
   - 🔗 [LawDual-Bench](https://github.com/yuwenhan07/LawDual-Bench): A bilingual benchmark dataset and evaluation framework for the legal domain, supporting multi-task evaluation.
   - 🔗 [KG_TCM](https://github.com/yuwenhan07/KG_TCM): Construction and application of a knowledge graph for traditional Chinese medicine, focusing on structured information extraction.
-  - 🔗 [LawLLM-cupl-buaa](https://github.com/yuwenhan07/LawLLM-cupl-buaa): A collaborative effort to build legal large language models and explore their applications.
   - 🔗 [BUAA-Image-processing-and-stylization](https://github.com/yuwenhan07/BUAA-Image-processing-and-stylization): An experimental project on image processing and style transfer tasks.
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=LawLLM-cupl-buaa)](https://github.com/yuwenhan07/LawLLM-cupl-buaa)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=LawDual-Bench)](https://github.com/yuwenhan07/LawDual-Bench)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=KG_TCM)](https://github.com/yuwenhan07/KG_TCM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=LawLLM-cupl-buaa)](https://github.com/yuwenhan07/LawLLM-cupl-buaa)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=BUAA-Image-processing-and-stylization)](https://github.com/yuwenhan07/BUAA-Image-processing-and-stylization)
 
 ---
@@ -71,3 +71,9 @@
 ### 🌟 Motto
 
 > **“Stay curious, stay driven, and always keep learning.”**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuwenhan07/yuwenhan07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuwenhan07/yuwenhan07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuwenhan07/yuwenhan07/output/github-contribution-grid-snake.svg">
+</picture>
