@@ -1,6 +1,6 @@
 <!--
  * @Author: Wenhan Yu
- * @LastEditTime: 2025-07-20 09:15:58
+ * @LastEditTime: 2025-07-20 09:51:37
  * @Date: 2025-07-20 08:23:48
  * @Version: 1.0
  * @Description: 
@@ -13,14 +13,8 @@
 🎓 Student @ <strong>Beihang University (BUAA)</strong><br>
 📚 Major in <strong>Information and Computing Science</strong> (Strong Foundation Program)<br>
 🏫 School of Artificial Intelligence<br>
-🔬 Researcher in Prof. Sha Lei's <strong>Language Computing and Sequence Analysis Group</strong><br>
+🔬 Researcher in the <strong>Language Computing and Sequence Analysis Group</a></strong>, led by Prof. <strong><a href="https://shalei120.github.io">Sha Lei</strong></a><br>
 </p>
-
-Beihang University
-
-37 Xueyuan Rd., Haidian Dist.
-
-Beijing, China, 100191
 
 ---
 
@@ -31,27 +25,34 @@ Beijing, China, 100191
 
 ### 🔍 About Me
 
-- 👋 I'm passionate about **large language models (LLMs)** and their real-world applications.
-- 🔬 Currently focusing on **model enhancement and deployment** under Prof. Sha Lei.
-- 💡 Interests: Natural Language Processing, Foundation Models, Model Efficiency, Multilingual Understanding.
-- 🌱 Currently improving skills in **deep learning**, **model optimization**, and **AI systems**.
+- 👋 I'm passionate about **large language models (LLMs)** and their practical applications in** vertical domains**.
+- 🔬 Under the supervision of Prof. **Sha Lei**, I focus on model deployment, real-world application, and performance enhancement.
+- 💡 My research interests include **natural language processing(NLP)**, **multimodal learning**, **foundation model optimization**, and **efficient inference**.
+- 🌱 I am continuously improving my skills in **deep learning**, **model compression**, and **AI system engineering**.
 
 ---
 
 ### 🧠 Research & Projects
 
-- 📄 Research Assistant @ **Language Computing & Sequence Analysis Group**
-- 💻 Ongoing Projects:
-  - Prompt engineering and fine-tuning of LLMs
-  - Efficient inference and deployment of Transformer-based models
-  - Evaluation benchmarks and task-specific applications (QA, summarization, etc.)
+- 📄 Research Internship @ [**Language Computing & Sequence Analysis Group**](https://github.com/Lesca-Group)
+- **💻 Participated / Completed / Ongoing Projects:**
+  - 🔗 [LawDual-Bench](https://github.com/yuwenhan07/LawDual-Bench): A bilingual benchmark dataset and evaluation framework for the legal domain, supporting multi-task evaluation.
+  - 🔗 [KG_TCM](https://github.com/yuwenhan07/KG_TCM): Construction and application of a knowledge graph for traditional Chinese medicine, focusing on structured information extraction.
+  - 🔗 [LawLLM-cupl-buaa](https://github.com/yuwenhan07/LawLLM-cupl-buaa): A collaborative effort to build legal large language models and explore their applications.
+  - 🔗 [BUAA-Image-processing-and-stylization](https://github.com/yuwenhan07/BUAA-Image-processing-and-stylization): An experimental project on image processing and style transfer tasks.
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=LawDual-Bench)](https://github.com/yuwenhan07/LawDual-Bench)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=KG_TCM)](https://github.com/yuwenhan07/KG_TCM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=LawLLM-cupl-buaa)](https://github.com/yuwenhan07/LawLLM-cupl-buaa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=BUAA-Image-processing-and-stylization)](https://github.com/yuwenhan07/BUAA-Image-processing-and-stylization)
 
 ---
 
 ### 📫 Get in Touch
 
 - 📨 Email: **yuwenhan@buaa.edu.cn**
-- 🌐 Personal Site: [your personal website if you have one]
+- 📄 Github: [wenhan Yu](https://github.com/yuwenhan07)
 - 🔗  [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bp2SG9MAAAAJ) | [BUAA Profile](https://www.buaa.edu.cn/)
 
 ---
