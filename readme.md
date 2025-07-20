@@ -1,6 +1,6 @@
 <!--
  * @Author: Wenhan Yu
- * @LastEditTime: 2025-07-20 09:05:09
+ * @LastEditTime: 2025-07-20 09:07:53
  * @Date: 2025-07-20 08:23:48
  * @Version: 1.0
  * @Description: 
@@ -60,6 +60,7 @@ Beijing, China, 100191
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuwenhan07&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuwenhan07&theme=default" />
 </p>
 
