@@ -1,13 +1,13 @@
 <!--
  * @Author: Wenhan Yu
- * @LastEditTime: 2025-07-20 08:35:20
+ * @LastEditTime: 2025-07-20 08:37:02
  * @Date: 2025-07-20 08:23:48
  * @Version: 1.0
  * @Description: 
 -->
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi there 👋, I'm [你的名字]</h1>
+<h1 align="center">Hi there 👋, I'm Wenhan Yu</h1>
 
 <p align="center">
 🎓 Student @ <strong>Beihang University (BUAA)</strong><br>
@@ -17,6 +17,9 @@
 </p>
 
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenhanyu07)
+
 
 ### 🔍 About Me
 
