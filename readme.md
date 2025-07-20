@@ -1,6 +1,6 @@
 <!--
  * @Author: Wenhan Yu
- * @LastEditTime: 2025-07-20 08:39:08
+ * @LastEditTime: 2025-07-20 08:52:05
  * @Date: 2025-07-20 08:23:48
  * @Version: 1.0
  * @Description: 
@@ -18,8 +18,11 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwenhan07)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwenhan07&count_private=true&theme=dracula&hide_title=True&include_all_commits=true&show_icons=true&cardwidth)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&hide=shell,javascript) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact&theme=dracula)
+
+
 
 ### 🔍 About Me
 
