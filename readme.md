@@ -18,7 +18,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenhanyu07)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwenhan07)
 
 
 ### 🔍 About Me
