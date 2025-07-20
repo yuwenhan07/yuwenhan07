@@ -1,6 +1,6 @@
 <!--
  * @Author: Wenhan Yu
- * @LastEditTime: 2025-07-20 09:02:33
+ * @LastEditTime: 2025-07-20 09:03:36
  * @Date: 2025-07-20 08:23:48
  * @Version: 1.0
  * @Description: 
@@ -25,7 +25,6 @@ Beijing, China, 100191
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwenhan07&count_private=0&theme=dracula&hide_title=false&include_all_commits=true&show_icons=true&card_width=100)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&hide=shell,javascript) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact&theme=dracula&hide_title=0)
 
 
@@ -60,9 +59,10 @@ Beijing, China, 100191
 ### ⚙️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuwenhan07&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuwenhan07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact&theme=dracula" />
 </p>
+
 
 ---
 
