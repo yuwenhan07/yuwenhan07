@@ -1,6 +1,6 @@
 <!--
  * @Author: Wenhan Yu
- * @LastEditTime: 2025-07-20 09:07:53
+ * @LastEditTime: 2025-07-20 09:15:58
  * @Date: 2025-07-20 08:23:48
  * @Version: 1.0
  * @Description: 
@@ -24,8 +24,8 @@ Beijing, China, 100191
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwenhan07&count_private=0&theme=dracula&hide_title=false&include_all_commits=true&show_icons=true&card_width=100)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact&theme=dracula&hide_title=0)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwenhan07&count_private=0&theme=dracula&hide_title=false&include_all_commits=true&show_icons=true&card_width=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact&theme=dracula&hide_title=0) -->
 
 
 
@@ -50,18 +50,18 @@ Beijing, China, 100191
 
 ### 📫 Get in Touch
 
-- 📨 Email: [your.email@example.com]
+- 📨 Email: **yuwenhan@buaa.edu.cn**
 - 🌐 Personal Site: [your personal website if you have one]
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [Google Scholar](https://scholar.google.com/citations?user=xxxx) | [BUAA Profile](https://buaa.edu.cn/)
+- 🔗  [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=bp2SG9MAAAAJ) | [BUAA Profile](https://www.buaa.edu.cn/)
 
 ---
 
 ### ⚙️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuwenhan07&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuwenhan07&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuwenhan07&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwenhan07&layout=compact&theme=dracula">
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuwenhan07&theme=default" /> -->
 </p>
 
 
