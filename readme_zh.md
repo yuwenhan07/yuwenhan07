@@ -32,12 +32,12 @@
 - 📄 研究实习 @ [**Language Computing & Sequence Analysis Group**](https://github.com/Lesca-Group)
 - **💻 参与 / 完成 / 正在进行的项目：**
   - 🔗 [LawLLM-cupl-buaa](https://github.com/yuwenhan07/LawLLM-cupl-buaa): 一个构建法律大语言模型并探索其应用的协作项目。
-  - 🔗 [LawDual-Bench](https://github.com/yuwenhan07/LawDual-Bench): 法律领域的双语基准数据集与评估框架，支持多任务评估。
+  - 🔗 [MSLR-Bench](https://github.com/yuwenhan07/MSLR-Bench): AAAI 2026中稿论文，提出了MSLR Bench，采用IRAC框架评测LLM的Law Reasoning能力。
   - 🔗 [KG_TCM](https://github.com/yuwenhan07/KG_TCM): 中医药知识图谱的构建与应用，重点在结构化信息提取。
   - 🔗 [BUAA-Image-processing-and-stylization](https://github.com/yuwenhan07/BUAA-Image-processing-and-stylization): 一个关于图像处理与风格迁移任务的实验项目。
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=LawLLM-cupl-buaa)](https://github.com/yuwenhan07/LawLLM-cupl-buaa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=LawDual-Bench)](https://github.com/yuwenhan07/LawDual-Bench)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=MSLR-Bench)](https://github.com/yuwenhan07/MSLR-Bench)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=KG_TCM)](https://github.com/yuwenhan07/KG_TCM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=BUAA-Image-processing-and-stylization)](https://github.com/yuwenhan07/BUAA-Image-processing-and-stylization)
 
