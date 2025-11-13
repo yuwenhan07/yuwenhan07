@@ -43,7 +43,7 @@
   - 🔗 [BUAA-Image-processing-and-stylization](https://github.com/yuwenhan07/BUAA-Image-processing-and-stylization): An experimental project on image processing and style transfer tasks.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=LawLLM-cupl-buaa)](https://github.com/yuwenhan07/LawLLM-cupl-buaa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=MSLR-Bench)](https://github.com/yuwenhan07/MSLR-Bench)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=MSLR-Bench&cache_seconds=1)](https://github.com/yuwenhan07/MSLR-Bench)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=KG_TCM)](https://github.com/yuwenhan07/KG_TCM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuwenhan07&repo=BUAA-Image-processing-and-stylization)](https://github.com/yuwenhan07/BUAA-Image-processing-and-stylization)
 
