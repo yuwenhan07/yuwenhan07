@@ -38,7 +38,7 @@
 - 📄 Research Internship @ [**Language Computing & Sequence Analysis Group**](https://github.com/Lesca-Group)
 - **💻 Participated / Completed / Ongoing Projects:**
   - 🔗 [LawLLM-cupl-buaa](https://github.com/yuwenhan07/LawLLM-cupl-buaa): A collaborative effort to build legal large language models and explore their applications.
-  - 🔗 [LawDual-Bench](https://github.com/yuwenhan07/LawDual-Bench): A bilingual benchmark dataset and evaluation framework for the legal domain, supporting multi-task evaluation.
+  - 🔗 [MSLR-Bench](https://github.com/yuwenhan07/MSLR-Bench): MSLR (Multi-Step-Reasoning-Trace) is a Chinese benchmark for evaluating large language models’ legal reasoning in case analysis and judgment prediction. 
   - 🔗 [KG_TCM](https://github.com/yuwenhan07/KG_TCM): Construction and application of a knowledge graph for traditional Chinese medicine, focusing on structured information extraction.
   - 🔗 [BUAA-Image-processing-and-stylization](https://github.com/yuwenhan07/BUAA-Image-processing-and-stylization): An experimental project on image processing and style transfer tasks.
 
